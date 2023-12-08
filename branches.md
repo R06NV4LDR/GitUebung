@@ -53,3 +53,7 @@ Um einen Link in Ihrer `README.md` auf diese neue Datei herzustellen, fügen Sie
 [Weitere Informationen zu Branches](branches.md)
 
 Dieser Link führt Benutzer von Ihrer README-Datei zur branches.md-Datei für detaillierte Informationen zu Branches.
+
+## Review von Batuhan Seker
+
+Ronny hat die Aufgabe sehr gut gelöst. Er hat alle wichtigen Informationen zu Branches in Git aufgeführt. Die Erklärungen sind sehr gut und verständlich. Die Bilder und Videos sind sehr gut gewählt und passen gut zum Thema. Die Aufgabe ist sehr gut gelöst und ich habe nichts zu bemängeln.
